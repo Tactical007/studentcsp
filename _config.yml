@@ -5,14 +5,15 @@ github_username: nighthawkcoders
 github_repo: "tacticls_2025" 
 baseurl: "/tacticls_2025"
 future: true
-remote_theme: jekyll/minima
+# remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
     - { platform: github, user_url: "https://github.com/nighthawkcoders"}
     - { platform: x, user_url: "https://x.com/NighthawkCoding/" }
     - { platform: youtube, user_url: "https://www.youtube.com/@nighthawkcodingsociety2868" } 
-# remote_theme: pages-themes/midnight@v0.2.0
+# remote_theme: pages-themes/jekyll/minima
+remote_theme: pages-themes/midnight@v0.2.0
 # remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: pages-themes/dinky@v0.2.0
 # remote_theme: pages-themes/minimal@v0.2.0
@@ -24,4 +25,6 @@ header_pages:
   - navigation/search.md
   - navigation/about.md
   - navigation/index.md
+  - navigation/journey.md
   - README4YML.md
+  

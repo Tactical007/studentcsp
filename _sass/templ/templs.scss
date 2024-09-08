@@ -1,0 +1,10 @@
+$light-theme: #f0f8ff;
+$dark-theme: #333;
+
+// Change this to switch themes
+$bg-color: $light-theme;
+
+body {
+    background-color: $bg-color;
+    color: white;
+}
