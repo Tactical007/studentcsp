@@ -11,7 +11,7 @@ hide: true
 style="font-family:'cascadia-code'!important; "> My journey starts here. Hello im Luke and this is my homepage!</p>
 
 <div style="border: 2px solid black; padding: 10px; margin-bottom: 20px;">
-<p>These are just a couple pf photos from some personal projects I took.</p>
+<p>These are just a couple of photos from some personal projects I took.</p>
   <button
 style="background-color: #FF0000 !important; font-family: 'sans-serif' !important "> click for nothing! 
 </button>
@@ -20,7 +20,7 @@ style="background-color: #FF0000 !important; font-family: 'sans-serif' !importan
 
 <div style="border: 2px solid black; padding: 10px; background-color: #316362 !important">
   <a href="https://i.imgur.com/8kcMHPT.png" style="border: 2px solid black; display: block; padding: 10px; margin: 10px; color: green; font-weight: bold; text-align: center; text-decoration: none;">click?</a>
-   <a href="https://i.imgur.com/E2dDMVi.png" style="border: 2px solid black; display: block; padding: 10px; margin: 10px; color: green; font-weight: bold; text-align: center; text-decoration: none;">click for a bird</a>
+   <a href="https://i.imgur.com/E2dDMVi.png" style="border: 2px solid black; display: block; padding: 10px; margin: 10px; color: green; font-weight: bold; text-align: center; text-decoration: none;">click for part of my  personal project</a>
   <a href="https://brycemironuck.com/wp-content/uploads/2023/05/scripps-pier-la-jolla-lg.jpg" style="border: 2px solid black; display: block; padding: 10px; margin: 10px; color: red; font-weight: bold; text-align: center; text-decoration: none;">click to see a pier</a>
   
   <script>
