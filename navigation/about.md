@@ -22,9 +22,15 @@ I was born in San Diego, California, and have lived here forever. I went to the 
   <li> Torrey Hills Elementary(1 year)</li>
   <li>Ashley Falls Elementary(6 years)</li>
   <li>Oak Valley Middle School(2 years)</li>
+    
   <li>Del Norte High School(3 years)(obviously)</li>
 </ul>
-
+<div style= "text-align: left;">
+  <img src="https://imagescdn.homes.com/i2/yFsTnVACciV389M_j_6s-mAyUjGVGi3q9ICiCNWLpG8/111/del-norte-high-school-san-diego-ca-7-schoolphoto.jpg?p=1"
+  alt= "current High School(Obiously)"
+  width ="200px"
+  style="margin-left: auto; margin-left auto; display: block:" />
+</div>
 <style>
 .fade-in-list li {
   opacity: 0;
@@ -56,4 +62,4 @@ To me, everything revolves around my family and friends.
 ![](../images/portfolioimg/Lethal-Company-1.jpg)
 Outside of my newer interest in programming, I enjoy playing some videogames with friends when I can. I'm also very passionate about me starting to do game devlopment in my freetime.
 
-![The map my friends and I created](../images/portfolioimg/petergriffinmap.png)
+![](../images/portfolioimg/lethalmodmap.jpg)

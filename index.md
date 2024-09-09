@@ -10,9 +10,8 @@ hide: true
 <p
 style="font-family:'cascadia-code'!important; "> My journey starts here. Hello im Luke and this is my homepage!</p>
 
-
 <div style="border: 2px solid black; padding: 10px; margin-bottom: 20px;">
-<p>These are just a couple random links that I could find that were interesting.</p>
+<p>These are just a couple pf photos from some personal projects I took.</p>
   <button
 style="background-color: #FF0000 !important; font-family: 'sans-serif' !important "> click for nothing! 
 </button>
@@ -20,8 +19,8 @@ style="background-color: #FF0000 !important; font-family: 'sans-serif' !importan
 </div>
 
 <div style="border: 2px solid black; padding: 10px; background-color: #316362 !important">
-  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Eopsaltria_australis_-_Mogo_Campground.jpg/640px-Eopsaltria_australis_-_Mogo_Campground.jpg" style="border: 2px solid black; display: block; padding: 10px; margin: 10px; color: green; font-weight: bold; text-align: center; text-decoration: none;">click?</a>
-   <a href="https://s7d1.scene7.com/is/image/isp/wabyellowheadedblackbirdmale-mkr?qlt=100&wid=1200&ts=1705509020725&$ImageComponent$&fit=constrain" style="border: 2px solid black; display: block; padding: 10px; margin: 10px; color: green; font-weight: bold; text-align: center; text-decoration: none;">click for a bird</a>
+  <a href="https://i.imgur.com/8kcMHPT.png" style="border: 2px solid black; display: block; padding: 10px; margin: 10px; color: green; font-weight: bold; text-align: center; text-decoration: none;">click?</a>
+   <a href="https://i.imgur.com/E2dDMVi.png" style="border: 2px solid black; display: block; padding: 10px; margin: 10px; color: green; font-weight: bold; text-align: center; text-decoration: none;">click for a bird</a>
   <a href="https://brycemironuck.com/wp-content/uploads/2023/05/scripps-pier-la-jolla-lg.jpg" style="border: 2px solid black; display: block; padding: 10px; margin: 10px; color: red; font-weight: bold; text-align: center; text-decoration: none;">click to see a pier</a>
   
   <script>
@@ -79,5 +78,3 @@ alt="Bowser" style="width:260px; position:absolute; bottom:0; left:0;">
   
   moveBowser();
 </script>
-
-
