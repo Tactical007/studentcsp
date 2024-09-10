@@ -13,7 +13,7 @@ style="font-family:'cascadia-code'!important; "> My journey starts here. Hello i
 <div style="border: 2px solid black; padding: 10px; margin-bottom: 20px;">
 <p>These are just a couple of photos from some personal projects I took.</p>
   <button
-style="background-color: #FF0000 !important; font-family: 'sans-serif' !important "> click for nothing! 
+style="background-color: #FF0000 !important; font-family: 'open sans' , sans-serif !important; "> click for nothing! 
 </button>
   <div style="font-weight: bold; font-size: 24px; display: inline-block; margin: 10px;">buttons!</div>
 </div>
