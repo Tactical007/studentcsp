@@ -47,7 +47,7 @@ alt="mario" style="width:130px; position:absolute; bottom:0; left:0;">
     var speed = 3; 
     var interval = setInterval(function() {
       if (position >= window.innerWidth) {
-        position = -130;
+        position = -13;
       } else {
         position += speed;
         mario.style.left = position + "px";
@@ -78,3 +78,6 @@ alt="Bowser" style="width:260px; position:absolute; bottom:0; left:0;">
   
   moveBowser();
 </script>
+
+<img id="Mario" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e8e1555a-b50a-4eac-9515-647481d25076/ddy2owj-c064c23e-d4a4-4f03-8816-2566b2a604c2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U4ZTE1NTVhLWI1MGEtNGVhYy05NTE1LTY0NzQ4MWQyNTA3NlwvZGR5Mm93ai1jMDY0YzIzZS1kNGE0LTRmMDMtODgxNi0yNTY2YjJhNjA0YzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.NY2XmAD27Qu-GWx_wRJoTDdmXiHTjm1xWA5rfnUC6Dk" 
+alt="mario" style="width:130px; position:absolute; bottom:0; left:0;">
