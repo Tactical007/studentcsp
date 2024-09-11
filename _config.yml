@@ -2,8 +2,8 @@ title: Nighthawk Pages
 description: "Class of 2025"
 owner_name: Luke Starr
 github_username: Tactical007
-github_repo: "studnetcsp" 
-baseurl: "/studnetcsp"
+github_repo: "studentcsp" 
+baseurl: "/studentcsp"
 future: true
 # remote_theme: jekyll/minima
 minima:
