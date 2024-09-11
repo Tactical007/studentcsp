@@ -63,10 +63,10 @@ alt="Bowser" style="width:260px; position:absolute; bottom:0; left:0;">
 
 <script>
   function moveBowser() {
-    var bowser = document.getElementById("Bowser");
-    var position = 0;
-    var speed = 5; 
-    var interval = setInterval(function() {
+    const bowser = document.getElementById("Bowser");
+    let position = 0;
+    const speed = 5; 
+    const interval = setInterval(function() {
       if (position >= window.innerWidth) {
         position = -130;
       } else {
