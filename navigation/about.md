@@ -51,7 +51,7 @@ I was born in San Diego, California, and have lived here forever. I went to the 
 
 To me, everything revolves around my family and friends.
 * My current friend group and I have been close since I was 6 years old. I have known the majourity of my friend group since 1st grade. We have had so many fun times together, and I hope we have many more!
-* My family consist of my Mom and her SO, as well as my Dad and his girlfriend, and finally my siblings. My siblings, are some of the most important people in the world to me, I have one half-sister(Alexa) who is 30 years old, and my brother(Jack) whom is infamous around campus.
+* My family consist of my Mom and her SO, as well as my Dad and his girlfriend, and finally my siblings. My siblings, are some of the most important people in the world to me, I have one half-sister(Alexa) who is 30 years old, and my brother(Jack) whom is well known around campus.
 * I was born and raised here in SD, but trace my roots back to Germany and also Sicily. I have some old family stories that have been maintained for a long period of time. My family history streches from large medical corporations, to Governers, and Admirals of the navy.
 
 ![](../images/portfolioimg/codeimg.jpg)
