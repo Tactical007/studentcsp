@@ -37,6 +37,31 @@ style="background-color: #FF0000 !important; font-family: 'open sans' , sans-ser
 <p>Hi this is my first try at making this format! Thanks for looking at it! Have a good rest of your day:></p>
 </div>
 
+  
+<div style="display: flex; justify-content: center; gap: 20px; padding: 20px;">
+  <div style="text-align: center;">
+     <a href="notebook1" style="text-decoration: none;">
+        <button style="background-color: #4CAF50; color: white; border: none; padding: 15px 30px; font-size: 16px; border-radius: 8px; cursor: pointer;">
+          Calculator
+        </button>
+     </a>
+  </div>
+  <div style="text-align: center;">
+     <a href="notebook2" style="text-decoration: none;">
+        <button style="background-color: #2196F3; color: white; border: none; padding: 15px 30px; font-size: 16px; border-radius: 8px; cursor: pointer;">
+           Tic-Tack
+        </button>
+     </a>
+  </div>
+  <div style="text-align: center;">
+     <a href="notebook3" style="text-decoration: none;">
+        <button style="background-color: #F44336; color: black; border: none; padding: 15px 30px; font-size: 16px; border-radius: 8px; cursor: pointer;">
+          Snake
+        </button>
+     </a>
+  </div>
+</div>
+
 <img id="Mario" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e8e1555a-b50a-4eac-9515-647481d25076/ddy2owj-c064c23e-d4a4-4f03-8816-2566b2a604c2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U4ZTE1NTVhLWI1MGEtNGVhYy05NTE1LTY0NzQ4MWQyNTA3NlwvZGR5Mm93ai1jMDY0YzIzZS1kNGE0LTRmMDMtODgxNi0yNTY2YjJhNjA0YzIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.NY2XmAD27Qu-GWx_wRJoTDdmXiHTjm1xWA5rfnUC6Dk" 
 alt="mario" style="width:130px; position:absolute; bottom:0; left:0;">
 

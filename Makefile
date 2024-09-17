@@ -17,7 +17,7 @@ DESTINATION_DIRECTORY = _posts
 MARKDOWN_FILES := $(patsubst _notebooks/%.ipynb,$(DESTINATION_DIRECTORY)/%_IPYNB_2_.md,$(NOTEBOOK_FILES))
 
 # Call server, then verify and start logging
-# ...
+# ...m
 
 # Call server, then verify and start logging
 default: server

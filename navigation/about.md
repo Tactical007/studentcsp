@@ -65,20 +65,3 @@ Outside of my newer interest in programming, I enjoy playing some videogames wit
 
 ![](../images/portfolioimg/lethalmodmap.jpg)
 
-
----
-layout: default
-title: Binary Converter
----
-
-# Decimal to Binary Converter
-
-<label for="decimalInput">Enter Decimal Number:</label>
-<input type="number" id="decimalInput" placeholder="Enter a number">
-
-<button onclick="convertToBinary()">Convert to Binary</button>
-
-<p id="binaryOutput"></p>
-
-<!-- Link to the external JavaScript file -->
-<script src="/scripts/converter.js"></script>
