@@ -7,6 +7,7 @@ permalink: /about/
 
 
 
+
 Hi, I'm Luke Starr! I've had a deep interest in taking CSP and programming in general. I love solving problems and building projects. I'm eagar to learn more about programming and to learn more about software devlelopment. I first got into programming when I met my(now) brother in law. After I met him I took some classes in early middle school to get me started into the world of software & webdev.
 
 <h3> Childhood/backstory</h3>
@@ -63,3 +64,21 @@ To me, everything revolves around my family and friends.
 Outside of my newer interest in programming, I enjoy playing some videogames with friends when I can. I'm also very passionate about me starting to do game devlopment in my freetime.
 
 ![](../images/portfolioimg/lethalmodmap.jpg)
+
+
+---
+layout: default
+title: Binary Converter
+---
+
+# Decimal to Binary Converter
+
+<label for="decimalInput">Enter Decimal Number:</label>
+<input type="number" id="decimalInput" placeholder="Enter a number">
+
+<button onclick="convertToBinary()">Convert to Binary</button>
+
+<p id="binaryOutput"></p>
+
+<!-- Link to the external JavaScript file -->
+<script src="/scripts/converter.js"></script>
