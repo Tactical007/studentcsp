@@ -4,7 +4,6 @@ title: Snake
 permalink: /snake/
 ---
 
-This is an embedded Snake game built with HTML, CSS, and JavaScript.
 
 <div style="max-width: 500px; margin: 0 auto;">
   <canvas id="snakeGame" style="border: 1px solid #000; background-color: #f4f4f4;"></canvas>

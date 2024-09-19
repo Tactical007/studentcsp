@@ -58,9 +58,9 @@ style="background-color: #FF0000 !important; font-family: 'open sans' , sans-ser
 </div>
 
   <div style="text-align: center;">
-    <a href="notebook3" style="text-decoration: none;">
+    <a href="tictacktoe" style="text-decoration: none;">
       <button style="background-color: #F44336; color: black; border: none; padding: 15px 30px; font-size: 16px; border-radius: 8px; cursor: pointer;">
-        Snake
+        Tic-Tack-Toe
       </button>
     </a>
   </div>
