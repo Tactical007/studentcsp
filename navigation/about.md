@@ -57,7 +57,7 @@ To me, everything revolves around my family and friends.
 * Other than my family, my friends have been intramental in my growth when it comes to interest within computer science in the first place. 
 
 <script src="https://utteranc.es/client.js"
-        repo="studentcsp/Tactical007"
+        repo="Tactical007/studentcsp"
         issue-term="title"
         label="blogpost-comment"
         theme="github-light"

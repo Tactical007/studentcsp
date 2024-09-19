@@ -108,12 +108,3 @@ alt="Bowser" style="width:260px; position:absolute; bottom:0; left:0;">
   
   moveBowser();
 </script>
-
-<script src="https://utteranc.es/client.js"
-        repo="nighthawkcoders/portfolio_2025"
-        issue-term="title"
-        label="blogpost-comment"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
