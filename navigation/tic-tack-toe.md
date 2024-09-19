@@ -71,3 +71,13 @@ permalink: /tictacktoe/
 </script>
 
 <button style="display: block; margin: 20px auto; padding: 10px 20px; font-size: 1rem;" onclick="resetGame()">Restart Game</button>
+
+
+<script src="https://utteranc.es/client.js"
+        repo="nighthawkcoders/portfolio_2025"
+        issue-term="title"
+        label="blogpost-comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

@@ -58,10 +58,13 @@ To me, everything revolves around my family and friends.
 ![](../images/portfolioimg/codeimg.jpg)
 <h3> Our Project</h3>
 
-* Other than my family, my friends have been intramental in my growth when it comes to interest within computer science in the first place. I in the past with others over a year ago developed a project with my friends outside of school, and created a very popular modded map for a videogame called Lethal Company. This game was a very popular game at the time, and thus had people with as much as 12 million followers, visting our map and discussing our work. This map in particular gained mass traction within the game being in the top 10 most popular maps in lethal company with over ~~800,000~~ 850,000 downloads.
+* Other than my family, my friends have been intramental in my growth when it comes to interest within computer science in the first place. 
 
-![](../images/portfolioimg/Lethal-Company-1.jpg)
-Outside of my newer interest in programming, I enjoy playing some videogames with friends when I can. I'm also very passionate about me starting to do game devlopment in my freetime.
-
-![](../images/portfolioimg/lethalmodmap.jpg)
-
+<script src="https://utteranc.es/client.js"
+        repo="nighthawkcoders/portfolio_2025"
+        issue-term="title"
+        label="blogpost-comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

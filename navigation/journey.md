@@ -16,3 +16,13 @@ My CSP Journey
 ### Week 3
 * I finished my aboutme page and my index as well as changing things related to the theme of the page in order to make it look "cleaner." I wasnted to also say that I have made a third majour commit of all these new changes and have begun preperations for my peergrading tonight, through the usage of the checklist we were provided. I began later this week working on jupiter notebooks, I wasnt able to get them working just yet and had some trouble with setting up emoji imports and other notebooks. I have numerous issues however then week ended unsuccesfully unfortunetly.
 ### Week 4
+
+
+<script src="https://utteranc.es/client.js"
+        repo="nighthawkcoders/portfolio_2025"
+        issue-term="title"
+        label="blogpost-comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
