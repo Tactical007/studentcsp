@@ -165,7 +165,7 @@ permalink: /calculator/
 </html>
 
 <script src="https://utteranc.es/client.js"
-        repo="studentcsp"
+        repo="studentcsp/portfolio_2025"
         issue-term="title"
         label="blogpost-comment"
         theme="github-light"

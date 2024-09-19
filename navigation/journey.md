@@ -19,7 +19,7 @@ My CSP Journey
 
 
 <script src="https://utteranc.es/client.js"
-        repo="studentcsp"
+        repo="nighthawkcoders/portfolio_2025"
         issue-term="title"
         label="blogpost-comment"
         theme="github-light"
