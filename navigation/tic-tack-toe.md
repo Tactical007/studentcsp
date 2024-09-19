@@ -74,7 +74,7 @@ permalink: /tictacktoe/
 
 
 <script src="https://utteranc.es/client.js"
-        repo="nighthawkcoders/portfolio_2025"
+        repo="studentcsp"
         issue-term="title"
         label="blogpost-comment"
         theme="github-light"
