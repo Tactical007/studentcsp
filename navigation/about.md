@@ -4,10 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-
-
-
-
 Hi, I'm Luke Starr! I've had a deep interest in taking CSP and programming in general. I love solving problems and building projects. I'm eagar to learn more about programming and to learn more about software devlelopment. I first got into programming when I met my(now) brother in law. After I met him I took some classes in early middle school to get me started into the world of software & webdev.
 
 <h3> Childhood/backstory</h3>
