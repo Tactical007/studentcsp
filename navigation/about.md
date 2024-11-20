@@ -10,7 +10,7 @@ Hi, I'm Luke Starr! I've had a deep interest in taking CSP and programming in ge
 I was born in San Diego, California, and have lived here forever. I went to the following schools during my life.
 <div style="text-align: right;">
   <img src="https://m.media-amazon.com/images/I/71MqOPGbsmL._AC_UF894,1000_QL80_.jpg" 
-  alt="Raised and born in California for 16 years" 
+  alt="Raised and born in California for 17 years" 
   width="200px"
   style="margin-right: auto; margin-left auto; display: block;" />
 </div>
